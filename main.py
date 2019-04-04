@@ -1,1 +1,3 @@
-print("Mi primera linea Python")
+import functions import  showInstruncions
+
+showInstructions()
